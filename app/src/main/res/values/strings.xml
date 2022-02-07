@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LearnEnglishGame</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_game">Learn English with Pictures</string>
+    <string name="home_button_play">Play</string>
+    <string name="home_button_option">Options</string>
+    <string name="app_game_label">GameLabel</string>
+    <string name="wrong_answer">Wrong answer !</string>
+</resources>
